@@ -1,6 +1,6 @@
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masahiro96848&layout=compact&theme=radical" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=masahiro96848&show_icons=true&layout=compact&theme=radical" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masahiro96848&layout=compact&theme=radical" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=masahiro96848&show_icons=true&layout=compact&theme=radical" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=masahiro96848&theme=onedark&column=7)](https://github.com/masahiro96848/github-profile-trophy)
